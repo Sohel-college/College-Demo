@@ -1,4 +1,4 @@
 # College-Demo
-First Git Repository.
-//<br>
+First Git Repository
+<br>
 -Managed by Shl
