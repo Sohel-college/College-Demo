@@ -1,4 +1,4 @@
 # College-Demo
-First Git Repository
+First Git Repository(This is project platform for managing it)
 <br>
--Managed by Shl()
+-Managed by Shl
